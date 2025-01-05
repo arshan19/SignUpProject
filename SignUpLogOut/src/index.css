@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "gilroy", "Helvetica Neue", Helvetica, Arial ;
+  background-color: black;
+  color: white;
+}
